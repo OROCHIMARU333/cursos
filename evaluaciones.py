@@ -45,4 +45,4 @@ escoger()
 
 #como van
 
-santi=print("Hola santi")
+Santiago=int(input("Digite su edad santiago: "))
